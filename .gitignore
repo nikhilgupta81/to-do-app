@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / tooling
+.claude/
+.vscode/
+.idea/
+
+# Dependencies (none currently, but safe for the future)
+node_modules/
+
+# Logs
+*.log
